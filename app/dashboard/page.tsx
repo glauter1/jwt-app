@@ -1,5 +1,6 @@
 import publicApi from "@/lib/api";
 import { cookies } from "next/headers";
+export const instant = false
 
 export default async function Dashboard() {
     const cookieStore = await cookies();
