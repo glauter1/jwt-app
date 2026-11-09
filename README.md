@@ -1,6 +1,6 @@
 # Biblioteca App (jwt-app)
 
-Front-end do sistema de gestão de biblioteca. Consome a API do projeto `jwt-api`. Trabalho da disciplina de [nome da disciplina], [curso], Unipar.
+Front-end do sistema de gestão de biblioteca. Consome a API do projeto `jwt-api`. Trabalho da disciplina de front-end, ads, Unipar.
 
 **Integrantes:** Glauter Junior Alberico RA:60006591
 
